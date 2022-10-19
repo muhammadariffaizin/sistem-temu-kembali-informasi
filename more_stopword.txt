@@ -1,3 +1,4 @@
+stopword
 aku
 amin
 apa
